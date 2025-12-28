@@ -21,3 +21,6 @@
  .gme-generated-link {
                         display: none !important;
                     }
+.active{
+    color:#2FB38C;
+}
